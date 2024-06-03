@@ -1,0 +1,15 @@
+1. Move this file on C:/wamp64/www
+
+2. On src/php, you will find the sql file.
+
+3. Import it to your myPhpAdmin, it should be named as bpps
+
+4. Open this project to vs code.
+
+5. Open Integrated Terminal, make sure that the terminal is running on the name file directory.
+
+6. type npm install
+
+7. type npm install axios
+
+8. type npm run dev
